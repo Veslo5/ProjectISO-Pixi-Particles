@@ -1,8 +1,0 @@
-D:\Programy\Projects\C#\Pixi\ProjectISO-Pixi-Particles\obj\Debug\netstandard2.1\ProjectISO-Pixi-Particles.AssemblyInfoInputs.cache
-D:\Programy\Projects\C#\Pixi\ProjectISO-Pixi-Particles\obj\Debug\netstandard2.1\ProjectISO-Pixi-Particles.AssemblyInfo.cs
-D:\Programy\Projects\C#\Pixi\ProjectISO-Pixi-Particles\obj\Debug\netstandard2.1\ProjectISO-Pixi-Particles.csproj.CoreCompileInputs.cache
-D:\Programy\Projects\C#\Pixi\ProjectISO-Pixi-Particles\bin\Debug\netstandard2.1\ProjectISO-Pixi-Particles.deps.json
-D:\Programy\Projects\C#\Pixi\ProjectISO-Pixi-Particles\bin\Debug\netstandard2.1\ProjectISO-Pixi-Particles.dll
-D:\Programy\Projects\C#\Pixi\ProjectISO-Pixi-Particles\bin\Debug\netstandard2.1\ProjectISO-Pixi-Particles.pdb
-D:\Programy\Projects\C#\Pixi\ProjectISO-Pixi-Particles\obj\Debug\netstandard2.1\ProjectISO-Pixi-Particles.dll
-D:\Programy\Projects\C#\Pixi\ProjectISO-Pixi-Particles\obj\Debug\netstandard2.1\ProjectISO-Pixi-Particles.pdb
